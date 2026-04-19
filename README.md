@@ -7,7 +7,7 @@ Results-driven ELV / IBMS Engineer with 4+ years of experience in execution, com
 ## 🚀 Expertise
 - Fire Alarm Systems (NFPA 72)
 - CCTV Surveillance (Hikvision, Honeywell)
-- Access Control Systems (HID, iSecure)
+- Access Control Systems (HID, Smart-i, iSecure)
 - IBMS / BMS (HVAC Control)
 
 ## 📂 Portfolio Sections
